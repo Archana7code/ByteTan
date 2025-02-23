@@ -7,5 +7,5 @@ function login() {
     }
 
     localStorage.setItem("username", username);
-    window.location.href = "index.html"; // Redirect to profile page
+    window.location.href = "homeindex.html"; // Redirect to profile page
 }
